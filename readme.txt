@@ -1,0 +1,16 @@
+Libraries Required:
+1) pandad
+2) numpy
+3) matplotlib
+4) statsmodels
+
+
+Models used:
+1) Moving Average model
+2) ARIMA Model
+
+
+
+For Running Project:
+Import this file in jupyter notebook
+Install all the required libraries, simply run.
