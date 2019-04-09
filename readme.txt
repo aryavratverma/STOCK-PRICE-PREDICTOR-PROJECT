@@ -1,5 +1,5 @@
 Libraries Required:
-1) pandad
+1) pandas
 2) numpy
 3) matplotlib
 4) statsmodels
