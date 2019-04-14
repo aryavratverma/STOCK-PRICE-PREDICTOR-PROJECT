@@ -7,7 +7,8 @@ Libraries Required:
 
 Models used:
 1) Moving Average model
-2) ARIMA Model
+2) Regression
+3)ARIMA
 
 
 
