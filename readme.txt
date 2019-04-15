@@ -15,3 +15,11 @@ Models used:
 For Running Project:
 Import this file in jupyter notebook
 Install all the required libraries, simply run.
+
+
+
+GROUP MEMBERS DETAILS
+ARYAVRAT (+91-9068587120):Code implemenmtation & complete documentation.
+ASHISH VARSHNEY: Code implementation & Data Analysis
+RAGHAV ARORA: Error detection & removal
+Rakhi Agrawal: Error Detection
